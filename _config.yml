@@ -108,5 +108,23 @@ deploy:
   repo: root@124.70.178.166:/xyt/blog/blog.git
   branch: master
 
-
+# 所有文章
+jsonContent:
+  meta: true
+  pages: true
+  posts:
+    title: true
+    date: true
+    path: true
+    text: false
+    raw: false
+    content: false
+    slug: false
+    updated: false
+    comments: true
+    link: false
+    permalink: false
+    excerpt: false
+    categories: false
+    tags: true
 
