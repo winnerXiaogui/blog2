@@ -107,3 +107,6 @@ deploy:
   type: git
   repo: root@124.70.178.166:/xyt/blog/blog.git
   branch: master
+
+
+

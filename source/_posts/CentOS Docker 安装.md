@@ -1,5 +1,5 @@
 ---
-title: '''CentOS Docker 安装'''
+title: CentOS Docker 安装
 date: 2020-08-01 08:59:07
 comments: true
 categories: #分类 
